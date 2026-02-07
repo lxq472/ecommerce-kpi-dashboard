@@ -55,11 +55,4 @@ Open the packaged workbook:
 
 tableau/ecommerce_dashboard.twbx
 
-Or view interactive version on Tableau Public (if published).
-
----
-
-## 👤 Author
-
-Data Analytics Portfolio Project  
-Built for BI / Data Analyst showcase
+Or view interactive version on Tableau Public.
