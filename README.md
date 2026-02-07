@@ -31,11 +31,10 @@ This project builds an end-to-end analytics workflow:
 
 ---
 
-## 🧰 Tech Stack
+## Tools
 
 - Python (Pandas, Matplotlib)
 - Tableau Public
-- Data Analytics / BI
 - Forecasting (Tableau built-in)
 
 ---
@@ -51,8 +50,4 @@ images/ → dashboard preview
 
 ## 📊 Tableau Dashboard
 
-Open the packaged workbook:
-
-tableau/ecommerce_dashboard.twbx
-
-Or view interactive version on Tableau Public.
+👉 Tableau Public link: (https://public.tableau.com/app/profile/nikolaos.giannoulis/viz/ecommerce_dashboard_twbx/Dashboard1)
