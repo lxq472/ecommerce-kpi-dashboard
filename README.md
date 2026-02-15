@@ -1,5 +1,5 @@
 # ecommerce-kpi-dashboard
-# 📊 E-commerce KPI Dashboard (Tableau + Python)
+# 📊 E-commerce KPI Analysis (Tableau + Python)
 
 Interactive analytics dashboard analyzing Revenue, Orders, Customers and AOV with forecasting and growth insights.
 
